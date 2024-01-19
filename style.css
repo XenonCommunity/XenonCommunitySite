@@ -16,7 +16,7 @@ body {
     animation: moveHeaderText 2s;
 }
 .header img{
-    width: 10%;
+    width: 50px;
     margin-right: 75%;
     animation: fadeHeaderIn;
     transform: translate(0, -70%);
